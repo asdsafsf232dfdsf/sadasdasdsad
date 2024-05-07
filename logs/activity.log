@@ -1,0 +1,12 @@
+2024-05-07 17:55:30,478 [WARNING] 
+    [ACCOUNT] Accounts credential file "accounts.json" not found.
+    [ACCOUNT] A new file has been created, please edit with your credentials and save.
+    
+2024-05-07 17:56:09,340 [INFO] ********************an12312asdczxc@outlook.com********************
+2024-05-07 17:56:10,768 [INFO] Using default request storage
+2024-05-07 17:56:10,782 [INFO] Created proxy listening on 127.0.0.1:53641
+2024-05-07 17:56:10,782 [INFO] Using undetected_chromedriver
+2024-05-07 17:56:13,670 [INFO] patching driver executable C:\Users\AyAz\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-05-07 17:56:14,483 [INFO] Screen size: 1233x940
+2024-05-07 17:56:14,483 [INFO] Device size: 1178x789
+2024-05-07 17:56:14,545 [INFO] [LOGIN] Logging-in...
